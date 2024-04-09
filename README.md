@@ -1,1 +1,1 @@
-# htb-active_directory
+# Introduction to Active Directory - Lab

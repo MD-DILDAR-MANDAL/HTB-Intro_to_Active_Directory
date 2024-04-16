@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://academy.hackthebox.com/images/logo.svg" width="200"/>
-</div>
 
 # Introduction to Active Directory - Lab 
 
+</div>
 
 [AD Administration: Guided Lab Part I](https://academy.hackthebox.com/module/74/section/708)
 

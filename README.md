@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="https://academy.hackthebox.com/images/logo.svg" width="200"/>
 </div>
 
